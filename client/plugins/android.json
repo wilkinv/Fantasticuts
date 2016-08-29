@@ -1,0 +1,23 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ionicframework.devdacticrestauth917598"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "943834605715146",
+            "APP_NAME": "Fantasticuts",
+            "PACKAGE_NAME": "com.ionicframework.devdacticrestauth917598"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.devdacticrestauth917598"
+        }
+    },
+    "dependent_plugins": {}
+}

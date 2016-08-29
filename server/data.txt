@@ -1,0 +1,12 @@
+Jay,678-434-3543,nifw@yahoo.com,8934 More Longing,6,30,Wavy,34.2,-84.8
+Boyn,345-453-4343,roger39@gmail.com,2392 Sing Tring,4,50,Short,34.3,-84.5
+Rufus,655-399-5423,joi394@yahoo.com,3433 Sacred Grin,9,20,Wavy,35,-85
+Madre,770-434-2543,mogie@yahoo.com,9438 Magic Lane,5,30,Straight,34.1,-84
+Evan,678-536-5894,evanri3@yahoo.com,1200 Black List,6,50,Wavy,33.6,-83.6
+Richard,770-254-6595,richardNamr3@gmail.com,4500 Trill Water,4,60,Short,34.3,-84
+Rachel,678-981-9103,rachelMicj@yahoo.com,3784 Wing Zone,2,50,Short,34,-84.8
+Mick,534-348-9653,mickrogers@yahoo.com,3784 Joseph Brone,9,30,Short,35.3,-84.4
+Maddy,233-588-3948,maddyra@yahoo.com,9104 Ur Dog,5,35,Wavy,34.5,-84.7
+Johnny,843-556-4635,johnny32@gmail.com,3953 Potato Octopus,4,45,Straight,35.1,-84
+Lizzy,436-452-5436,lizzyi43@gmail.com,1243 Tech George,6,40,Curly,34,-83.8
+Nick,346-452-2436,nickai3@gmail.com,7483 Blue Elbow,3,30,Curly,35,-85.2

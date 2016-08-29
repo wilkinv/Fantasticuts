@@ -1,0 +1,37 @@
+<ion-view title="Stylist Info">
+  <ion-header-bar align-title="center" class="bar-positive">
+    <h1 class="title">Stylist Info</h1>
+  </ion-header-bar>
+  <ion-content class="padding">
+    <div class="items">
+      <label class="item">
+        Name: {{appointment.name}}
+      </label>
+      <label class="item">
+        Email: {{appointment.email}}
+      </label>
+      <label class="item">
+        Address: {{appointment.address}}
+      </label>
+      <label class="item">
+        Phone Number: {{appointment.phone_number}}
+      </label>
+      <label class="item">
+        Average Rating: {{appointment.rating}}
+      </label>
+      <label class="item">
+        Style: {{appointment.style}}
+      </label>
+      <label class="item">
+        Average Price: {{appointment.price}}
+      </label>
+    </div>
+
+    <div class="spacer" style="width: 300px; height: 75px;"></div>
+
+    <button class="button button-full button-balanced" ng-click="confirmAppointment()">
+      Make Appointment
+    </button>
+       
+  </ion-content>
+</ion-view>
