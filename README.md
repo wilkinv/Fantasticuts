@@ -6,7 +6,7 @@ This installation guide is for Mac users, though it should be similar for Window
 
 To start off you need to have git already installed. If you do not then a simple google search on how to install git will provide the information that you need to install it.
 
-In the terminal, go to the directory you want to clone the repository and then type "git clone https://github.gatech.edu/kwoumn3/Fantasticuts.git" or "https://github.com/wilkinv/Fantasticuts.git" to download the source files.
+In the terminal, go to the directory you want to clone the repository and then type "git clone https://github.gatech.edu/kwoumn3/Fantasticuts.git" or "git clone https://github.com/wilkinv/Fantasticuts.git" to download the source files.
 
 Make sure you have nodejs installed. If not, install homebrew by going to http://brew.sh and following the instructions. Then type "brew install node" in the terminal to install node.
 
